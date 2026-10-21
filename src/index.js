@@ -4,8 +4,7 @@ export default {
       baseUrl: env.ACUMATICA_BASE_URL,
       username: env.ACUMATICA_USERNAME,
       password: env.ACUMATICA_PASSWORD,
-      tenant: env.ACUMATICA_TENANT,
-      branch: env.ACUMATICA_BRANCH,
+      tenant: env.ACUMATICA_TENANT
     };
 
     // Temporary configuration check only.
