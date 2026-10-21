@@ -17,7 +17,6 @@ export default {
 
     return Response.json({
       configured,
-      branchConfigured: Boolean(config.branch),
     });
   },
 };
