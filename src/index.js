@@ -1,7 +1,3 @@
-import { McpServer } from "@modelcontextprotocol/server";
-import { createMcpHandler } from "agents/mcp/server";
-import { z } from "zod";
-
 export default {
   async fetch(request, env) {
     const config = {
