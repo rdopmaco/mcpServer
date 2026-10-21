@@ -11,8 +11,7 @@
     "required": [
       "ACUMATICA_USERNAME",
       "ACUMATICA_PASSWORD",
-      "ACUMATICA_TENANT",
-      "ACUMATICA_BRANCH"
+      "ACUMATICA_TENANT"
     ]
   }
 }
